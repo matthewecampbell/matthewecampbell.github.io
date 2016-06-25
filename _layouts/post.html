@@ -1,7 +1,7 @@
 {% include header.html %}
 
 <h1 align="center">{{ page.title }}</h1>
-<p align="center" class="date">{{ page.date | date: '%B %d, %Y' }}</p>
+<p id="post_paragraph" align="center" class="date">{{ page.date | date: '%B %d, %Y' }}</p>
 {{ content }}
 
 {% include footer.html %}

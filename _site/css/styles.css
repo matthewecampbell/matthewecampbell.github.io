@@ -1,0 +1,61 @@
+#sleep_graphic {
+  height: 300px;
+}
+.post_body{
+  background: rgb(213, 230, 240);
+  width: 75%;
+  margin: 0 auto;
+  padding: 2%;
+  border: 2px groove white;
+}
+
+body{
+  background: rgb(177, 178, 179);
+}
+
+
+h1 {
+  width: 75%;
+  margin: auto;
+  padding: 0.25%;
+  color: #004489;
+}
+
+h2 {
+  margin: auto;
+  padding: .25%;
+  color: #004489;
+}
+
+h3 {
+  width: 75%;
+  margin: auto;
+  padding: .25%;
+  color: #004489;
+}
+
+h4 {
+
+  margin: auto;
+  padding: .25%;
+  color: #004489;
+}
+ul {
+  margin: auto;
+  padding: 1%;
+  color: #004489;
+}
+
+.date {
+  width: 75%;
+  margin: auto;
+  padding: 1%;
+}
+
+#posts {
+  width: 75%;
+  margin: auto;
+  padding: 1%;
+  background: rgb(213, 230, 240);
+  border: 2px groove white;
+}

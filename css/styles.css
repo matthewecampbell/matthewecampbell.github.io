@@ -1,0 +1,43 @@
+#sleep_graphic {
+  height: 300px;
+}
+.post_body{
+  background: rgb(213, 230, 240);
+  width: 50%;
+  margin: 0 auto;
+  padding: 2%;
+  border: 2px groove white;
+}
+
+body{
+  background: rgb(177, 178, 179);
+}
+h1 {
+  width: 50%;
+  margin: auto;
+  padding: 0.25%;
+}
+h3 {
+  width: 50%;
+  margin: auto;
+  padding: .25%;
+}
+ul {
+  width: 50%;
+  margin: auto;
+  padding: 1%;
+}
+
+.date {
+  width: 50%;
+  margin: auto;
+  padding: 1%;
+}
+
+#posts {
+  width: 50%;
+  margin: auto;
+  padding: 1%;
+  background: rgb(213, 230, 240);
+  border: 2px groove white;
+}
